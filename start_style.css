@@ -1,0 +1,32 @@
+body{
+    margin-top: 0%;
+}
+
+#camera{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#picture{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 1%;
+}
+.camera_block{
+    margin-top: 2%;
+    text-align: right;
+    margin-right: 1%;
+}
+.main{
+    margin-top: 0%;
+    text-align: center;
+}
+
+.sleep_mark{
+    margin-bottom: 3%;
+    padding-right: 8%;
+}
+
+.btn{
+    text-decoration: none;
+}

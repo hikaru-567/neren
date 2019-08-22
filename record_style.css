@@ -1,0 +1,23 @@
+@charset "utf-8";
+@font-face{
+    font-family: "07ラノベPOP";
+    src: url(ラノベPOP.woff) format('woff');
+}
+
+body{
+    font-family: "07ラノベPOP";
+}
+
+.main_body{
+    margin-top: 8%;
+    text-align: center;
+}
+
+.rec_head{
+    color: rgb(116, 112, 112);
+    font-size: 330%;
+}
+
+.btn{
+    margin-top: 25%;
+}
